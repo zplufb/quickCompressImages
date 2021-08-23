@@ -1,0 +1,1 @@
+batchCompressImagesIncludeSubFiles5050.sh .
